@@ -1,0 +1,88 @@
+{
+  "cookies": [
+    {
+      "name": "YSC",
+      "value": "3AyWmDv7qME",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://2at.ai",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "GcfpeMdbo0I",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1777198869.105164,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://2at.ai",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJOTBIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBm",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1777198869.105206,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://2at.ai",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CLeIpKapq4ypVBCj0tr-1caQAxij0tr-1caQAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1777198869.105239,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://2at.ai",
+      "_crHasCrossSiteAncestor": true
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://2at.ai",
+      "localStorage": [
+        {
+          "name": "soundEnabled",
+          "value": "true"
+        },
+        {
+          "name": "token",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJDbGllbnQyNDEwMjAyNTJAZ21haWwuY29tIiwidWlkIjoiNTI4NiIsInV1aWQiOiJjMzU1MmY5Ny05ZWFiLTQ2ODItOTZkMi1mNmQwOWQ0NGI2YzIiLCJiczY0IjoiUTJ4cFpXNTBNalF4TURJd01qVXlRR2R0WVdsc0xtTnZiVFV5T0Raak16VTFNbVk1TnkwNVpXRmlMVFEyT0RJdE9UWmtNaTFtTm1Rd09XUTBOR0kyWXpJPSIsImV4cCI6MTc2MTkwNjA2M30.efXKlfAkAco-vMKZlf_W8FH3MXY7l6wcKMPdH3G2XWk"
+        },
+        {
+          "name": "textNotificationEnabled",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.youtube.com",
+      "localStorage": [
+        {
+          "name": "yt-remote-connected-devices",
+          "value": "{\"data\":\"[]\",\"expiration\":1761733270063,\"creation\":1761646870063}"
+        },
+        {
+          "name": "yt-remote-device-id",
+          "value": "{\"data\":\"5c5909c8-fcba-4892-a6a9-5b43c599ad2b\",\"expiration\":1793182870061,\"creation\":1761646870061}"
+        },
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1764238870070,\"creation\":1761646870070}"
+        }
+      ]
+    }
+  ]
+}
